@@ -1,7 +1,15 @@
 <template>
-  <div></div>
+    <Vform></Vform>
+
 </template>
 
-<script setup></script>
+<script setup>
+
+import Vform from "./components/v-form.vue"
+
+
+</script>
+
+
 
 <style></style>
