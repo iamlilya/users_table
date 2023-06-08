@@ -5,7 +5,7 @@
 
 <script setup>
 
-import Vform from "src/components/v-form.vue"
+import Vform from "./components/v-form.vue"
 
 
 </script>
